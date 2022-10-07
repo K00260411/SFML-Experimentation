@@ -1,0 +1,17 @@
+﻿  Source.cpp
+D:\Y3\SFML experiments\Controller functionality\SFML-Controller inputs\SFML-Controller inputs\Source.cpp(34,22): warning C4553: '==': result of expression not used; did you intend '='?
+D:\Y3\SFML experiments\Controller functionality\SFML-Controller inputs\SFML-Controller inputs\Source.cpp(37,49): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Y3\SFML experiments\Controller functionality\SFML-Controller inputs\SFML-Controller inputs\Source.cpp(38,49): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Y3\SFML experiments\Controller functionality\SFML-Controller inputs\SFML-Controller inputs\Source.cpp(43,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Y3\SFML experiments\Controller functionality\SFML-Controller inputs\SFML-Controller inputs\Source.cpp(44,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Y3\SFML experiments\Controller functionality\SFML-Controller inputs\SFML-Controller inputs\Source.cpp(68,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Y3\SFML experiments\Controller functionality\SFML-Controller inputs\SFML-Controller inputs\Source.cpp(68,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFML-Controller inputs.vcxproj -> D:\Y3\SFML experiments\Controller functionality\SFML-Controller inputs\Debug\SFML-Controller inputs.exe
